@@ -1,5 +1,7 @@
 # QSP-Thesis
-Quantum State Preparation Thesis (2024). 
+Quantum State Preparation Thesis (2024) by Josh Green. 
+
+Includes extensive software used to generate data and produce plots.
 
 This repository employs various virtual environments.
 
