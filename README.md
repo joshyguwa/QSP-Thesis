@@ -1,5 +1,5 @@
 # QSP-Thesis
-Quantum State Preparation Thesis (2024)
+Quantum State Preparation Thesis (2024). 
 
 This repository employs various virtual environments.
 
@@ -16,3 +16,10 @@ For MPS analysis - truncation error, singular value decay rate, approximation of
 ### pyqsp_new
 
 For generalised quantum signal processing angle finding / experimentation.
+
+### hea_env
+
+For simulating tensor network optimisation with:
+https://iopscience.iop.org/article/10.1088/2058-9565/acd9e7
+
+
